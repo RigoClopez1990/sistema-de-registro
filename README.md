@@ -1,4 +1,4 @@
-<h1>Sistema de Regsitro</h1>
+<h1>Sistema de Registro</h1>
 
 - Estado del proyecto: En construccion.
 
